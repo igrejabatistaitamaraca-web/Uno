@@ -1,0 +1,6 @@
+{
+  "name": "Uno Party TV - Jogo Multiplayer TV & Celular",
+  "description": "Jogo estilo Uno em tempo real para até 5 jogadores. A TV exibe a mesa e QR Code, e cada jogador usa seu celular como controle pessoal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
